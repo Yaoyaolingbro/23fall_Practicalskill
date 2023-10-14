@@ -168,7 +168,7 @@ ps：期中考试周我们会暂停一次，后续的课程会根据授课情况
     
 - 资料/回放：
     - 课程仓库：[ZJU23fall-PracticalSkills](https://github.com/Yaoyaolingbro/23fall_Practicalskill)
-    - 课程 slides：[slides.tonycrane.cc/PracticalSkillsTutorial](https://yaoyaolingbro.github.io/23fall_Practicalskill/)
+    - 课程 slides：[PracticalSkills](https://yaoyaolingbro.github.io/23fall_Practicalskill/)
     - 钉钉群会同步直播
     - 我们也会将我们的随堂练习和一些小lab放到仓库中去
 
