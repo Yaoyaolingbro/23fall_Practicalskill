@@ -29,6 +29,10 @@ By [yaoyaoling](https://github.com/Yaoyaolingbro) [Thorin](https://github.com/Th
 <p>2023.10.14&emsp;&emsp;&emsp;</p>
 </div>
 
+<div class="centered">
+  <span class="small-text">申明：本课PPT是在@TonyCrane老师前作的基础上，大家可以多去逛逛大佬们的博客（逃</span>
+</div>
+
 </div>
 </div>
 
@@ -130,10 +134,10 @@ By [yaoyaoling](https://github.com/Yaoyaolingbro) [Thorin](https://github.com/Th
 
 - 周六：
     - 王淳主讲
-    - 15:00~16:30
+    - 18:30 -20:00 东1A-216
 - 周日：
     - 杜宗泽主讲
-    - 13:00~14:30
+    - 16:00~17:30 东1A-215
 
 没报名的同学当然可以线下or智云课堂的方式来观看哦！
 

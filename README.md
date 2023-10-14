@@ -1,5 +1,4 @@
 # ZJU23fall_Practicalskill
-<div class="four-line">
 
 |周数|日期|课程主题|slide|
 |:--:|:--:|:--:|:--:|
@@ -9,4 +8,3 @@
 |第7周|11.4|Markdown 语法及应用| |
 |第9周|11.18|LaTeX 排版简要介绍| |
 |第10周|11.25|一些好玩的东西！| |
-</div>

@@ -96,6 +96,10 @@
 .reveal .center {
   text-align: center;
 }
+.reveal .small-text {
+    font-size: small;
+}
+
 .reveal .middle {
   height: 660px;
   display: flex;
